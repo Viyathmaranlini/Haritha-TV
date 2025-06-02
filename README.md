@@ -2,6 +2,8 @@
 
 Haritha TV is a newly launched platform dedicated to covering all the latest events and news at NSBM Green University.
 
+![WhatsApp Image 2025-06-02 at 23 47 18_0fa657b7](https://github.com/user-attachments/assets/c405d088-0dc3-47e4-a0b4-d50f5f976b8b)
+
 
 
 ## Features
